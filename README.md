@@ -34,8 +34,6 @@ I’m a passionate **Developer** with a love for all things code.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GhoshSa&show_icons=true&theme=github_dark" alt="GhoshSa's GitHub stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GhoshSa&theme=github-dark-blue" alt="GitHub Streak" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhoshSa&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 
