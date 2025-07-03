@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm GhoshSa 👋
 
-<!--
-**GhoshSa/GhoshSa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate fullstack developer with a strong foundation in Java and Spring. I love building scalable web applications and exploring new technologies that help bring ideas to life. My journey in software development is fueled by curiosity, creativity, and a commitment to clean, maintainable code.
+
+- 🔭 I work on both backend and frontend solutions
+- ⚡ Specializing in Spring and fullstack development
+- 💡 Always eager to learn, collaborate, and contribute
+
+## 🛠️ Technologies & Tools
+
+- **Languages**: Java, JavaScript, TypeScript, HTML, CSS
+- **Frameworks**: Spring, React, Node.js
+- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Others**: Git, Docker, REST APIs
+
+## 📈 GitHub Stats
+
+![GhoshSa's GitHub stats](https://github-readme-stats.vercel.app/api?username=GhoshSa&show_icons=true&theme=github_dark)
+
+## 🤝 Let's Connect
+
+Feel free to reach out for collaboration or just to say hello!
+
+---
+
+*“Code is like humor. When you have to explain it, it’s bad.”*
